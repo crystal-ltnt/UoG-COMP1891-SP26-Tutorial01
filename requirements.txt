@@ -1,0 +1,36 @@
+# COMP1891 - Data Fundamentals
+# Tutorial 01 Dependencies
+
+# Core Data Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Scientific Computing
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+notebook>=7.0.0
+
+# Data Loading & Formats
+openpyxl>=3.1.0          # Excel files
+xlrd>=2.0.0              # Legacy Excel files
+
+# Utilities
+tqdm>=4.65.0             # Progress bars
+python-dotenv>=1.0.0     # Environment variables
+
+# Optional: Statistical Analysis
+statsmodels>=0.14.0
+
+# Optional: Data Validation
+great-expectations>=0.17.0
